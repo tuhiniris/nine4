@@ -1,2 +1,2 @@
 User-agent: *
-allow: /cgi-bin
+Disallow: /cgi-bin
